@@ -1,8 +1,7 @@
 streamlit
 google-generativeai
+tensorflow-cpu
 requests
 beautifulsoup4
-tensorflow
 pandas
 numpy
-scikit-learn
