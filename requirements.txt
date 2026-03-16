@@ -3,4 +3,5 @@ google-generativeai
 tensorflow-cpu
 requests
 beautifulsoup4
+gdown
 h5py
