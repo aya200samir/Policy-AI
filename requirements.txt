@@ -1,7 +1,7 @@
-streamlit
-google-generativeai
-tensorflow-cpu
-requests
-beautifulsoup4
-gdown
-h5py
+import streamlit as st
+import requests
+from bs4 import BeautifulSoup
+import numpy as np
+import google.generativeai as genai
+import os
+import gdown  # السيرفر سيتعرف عليها الآن بعد خطوة 1
