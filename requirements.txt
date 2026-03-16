@@ -3,6 +3,3 @@ google-generativeai
 tensorflow-cpu
 requests
 beautifulsoup4
-pandas
-numpy
-scikit-learn
